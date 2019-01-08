@@ -1,4 +1,3 @@
-a=int(input("enter the base"))
-b=int(input("enter the exponent"))
+a,b=map(int,input().split())
 c=a**b
 print(c)
