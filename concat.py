@@ -1,2 +1,2 @@
-a,b=map(str,input().split())
+a,b=map(str,input().split()) #get the ip
 print(a+b)
