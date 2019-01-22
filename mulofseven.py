@@ -1,5 +1,5 @@
 #multiples of seven
-s=input()
+s=int(input())
 if(s%7==0):
     print("yes")
 else:
