@@ -1,2 +1,2 @@
-d=list(map(int,input().split()))
-print(min(d))
+d=list(map(int,input().split())) #get the ip 
+print(min(d)) #printing the min of d
