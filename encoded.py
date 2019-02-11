@@ -1,7 +1,7 @@
 n=input()
 s=''
 for i in n:
-    if i=='x' or i=='y' or i=='z':
+    if i=='X' or i=='Y' or i=='Z':
         d=chr(ord(i)-23)
         s=s+d
     else:
